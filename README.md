@@ -1,7 +1,7 @@
 
 
 
-![version](https://img.shields.io/badge/version-1.4.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/now-ui-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/now-ui-dashboard-react.svg?maxAge=2592000)]() [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.4.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](./now-ui-dashboard-react.gif)
 
@@ -27,11 +27,6 @@ It comes with 6 filter colors for the sidebar (`black`, `blue`, `green`, `orange
 * [Useful Links](#useful-links)
 
 
-## Versions
-
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard-react)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard-angular2)
 
 
 | HTML | React | Angular |
@@ -45,16 +40,6 @@ It comes with 6 filter colors for the sidebar (`black`, `blue`, `green`, `orange
 | [![Start page](./src/assets/github/dashboard.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard) | [![User profile page](./src/assets/github/user_profile.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/user) | [![Tables page ](./src/assets/github/tables.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/table) | [![Maps Page](./src/assets/github/maps.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/maps) | [![Notification page](./src/assets/github/notification.jpg)](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/notifications)
 
 [View More](https://demos.creative-tim.com/now-ui-dashboard-react/#/admin/dashboard).
-
-
-## Quick start
-
-Quick start options:
-
-- `npm i now-ui-dashboard-react` (you will need to import from the dist folder our components)
-- Clone the repo: `git clone https://github.com/creativetimofficial/now-ui-dashboard-react.git`.
-- [Download from Github](https://github.com/creativetimofficial/now-ui-dashboard-react/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/now-ui-dashboard-react).
 
 
 ## Documentation
